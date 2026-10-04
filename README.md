@@ -3,7 +3,8 @@
 基于 **STM32F070F6P6** 的多路可调输出电源固件。通过 CH224K 诱骗 USB-PD/QC 电源输出不同电压，配合继电器切换输出通道，并用 OLED 显示运行状态，支持按键设定输出电压/限流阈值与过流、欠压保护。
 
 ---
-
+**基于开源项目**
+https://oshwhub.com/course-examples/shu-kong-zhi-liu-dian-yuan-ban
 ## 1. 功能概览
 
 | 功能   | 说明                                        |
